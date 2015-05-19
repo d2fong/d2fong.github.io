@@ -1,12 +1,12 @@
 {
-  "name": "Carlos Becker Blog",
+  "name": "Dylan Fong's Blog",
   "version": "0.0.1",
   "authors": [
-    "Carlos Alexandro Becker <caarlos0@gmail.com>"
+    "Dylan Fong <dylanfong93@gmail.com>"
   ],
-  "description": "Carlos Becker personal blog at carlosbecker.com",
+  "description": "Dylan Fong's personal blog at dylanfong.com",
   "license": "MIT",
-  "homepage": "http://carlosbecker.com",
+  "homepage": "http://dylanfong.com",
   "private": true,
   "ignore": [
     "**/.*",
