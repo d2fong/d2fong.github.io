@@ -29,5 +29,5 @@ rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 about_path: about.html
-
+resume_path: resume.pdf
 BASE_PATH:
