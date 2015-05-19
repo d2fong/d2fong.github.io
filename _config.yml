@@ -1,17 +1,33 @@
-markdown: rdiscount
-pygments: true
-permalink: /posts/:title
-rdiscount:
-  extensions: [smart]
-exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]
-title : Dylan Fong
-production_url : http://dylanfong.com
-description: "d"
-disqus_shortname: dlfn
-analytics: UA-32899481-1
-gauges: 50f2b533613f5d7c8000000c
-author :
-  name : Dylan Fong
-  github : d2fong
-  twitter : d2fong
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: pygments
+markdown: kramdown
+
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: DYLAN FONG
+
+description: placeholder
+author:
+  name: Dylan Fong
   email: dylanfong93@gmail.com
+  github: d2fong
+  twitter: d2fong
+  pinterest: d2fong
+  linkedin: d2fong
+  bio: A person
+  email_md5: 726351295ec82e145928582f595aa3aa
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+about_path: about.html
+resume_path: resume.pdf
+BASE_PATH:
