@@ -30,4 +30,7 @@ categories_path: categories.html
 tags_path: tags.html
 about_path: about.html
 resume_path: resume.pdf
-BASE_PATH:
+projects_path: projects.html
+utrack_path: utrack.html
+utrack_unit_path: unit_tests.html
+BASE_PATH: ''
