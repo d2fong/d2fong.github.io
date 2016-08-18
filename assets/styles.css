@@ -95,3 +95,16 @@ section h1:after {
   padding: 30px;
 }
 
+@media (max-width: 767px) {
+  .navbar-right {
+    display: none;
+  }
+}
+
+@media(max-width: 767px) {
+  section {
+    padding-bottom: 10px;
+    padding-top: 20px;
+  }
+}
+
