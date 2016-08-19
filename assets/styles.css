@@ -126,3 +126,13 @@ section h1:after {
   margin-top: 0;
   padding-top: 0;
 }
+
+.post-header {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.post-header h1 {
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+}
