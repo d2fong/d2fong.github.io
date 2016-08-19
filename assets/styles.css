@@ -31,7 +31,7 @@ a:hover {
 
 section {
   padding-top: 65px;
-  margin-top: 70px;
+  margin-top: 30px;
   padding-bottom: 20px;
 }
 section h1 {
@@ -108,3 +108,21 @@ section h1:after {
   }
 }
 
+
+#posts {
+  margin-top: 20px;
+  padding-top: 20px;
+}
+
+.post-list {
+  padding-left: 15px;
+}
+
+.post-meta {
+  padding-bottom: 0;
+}
+
+.post-link {
+  margin-top: 0;
+  padding-top: 0;
+}
